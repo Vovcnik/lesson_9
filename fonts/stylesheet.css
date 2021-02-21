@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Choco cooky';
+    src: url('Chococooky.eot');
+    src: local('Choco cooky'), local('Chococooky'),
+        url('Chococooky.eot?#iefix') format('embedded-opentype'),
+        url('Chococooky.woff') format('woff'),
+        url('Chococooky.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
